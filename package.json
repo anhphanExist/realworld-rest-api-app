@@ -1,0 +1,25 @@
+{
+  "name": "realworld-rest-api-app",
+  "version": "1.0.0",
+  "description": "Creating a real-world REST API app with Express, MongoDB and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spy126/realworld-rest-api-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spy126/realworld-rest-api-app/issues"
+  },
+  "homepage": "https://github.com/spy126/realworld-rest-api-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6"
+  }
+}
